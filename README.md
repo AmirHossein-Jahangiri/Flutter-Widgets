@@ -9,6 +9,11 @@
 <img src='expansion_panel_widget/screenshots/shot-1.png' width='200' height='400'><br><br>
 
 
+- <a href="chip_widget/"> Chip Widget </a><br>
+
+<img src='chip_widget/screenshots/shot-1.png' width='200' height='400'><br><br>
+
+
 
 <h4>توجه !</h4>
 <p>لازم به ذکر می باشد در صورت تمایل میتوانید در تکمیل و توسعه این ریپازیتوری همکاری کنید.</p>
