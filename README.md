@@ -13,6 +13,10 @@
 
 <img src='chip_widget/screenshots/shot-1.png' width='200' height='400'><br><br>
 
+- <a href="validating_user_input/"> Validating User Input -- Form Widget </a><br>
+
+<img src='validating_user_input/screenshots/shot-1.png' width='200' height='400'><br><br>
+
 
 
 <h4>توجه !</h4>
